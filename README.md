@@ -74,6 +74,7 @@ The dataset simulates a real-world online marketplace system.
  ┣ 📜 Python Analysis Script
  ┣ 📊 Visualizations
  ┗ 📄 README.md
+ 
 📊 SQL Analysis (15 Queries)
 
 The project includes structured SQL queries categorized into three levels:
@@ -236,13 +237,17 @@ It reflects practical skills required for roles like:
 🤖 Junior Data Scientist
 
 ▶ How to Run the Project
+
+
 1️⃣ Clone the Repository
 git clone https://github.com/Akanksha265/ECommerce_SalesData_Analysis.git
+
 
 2️⃣ Install Required Libraries
 pip install pandas numpy matplotlib seaborn mysql-connector-python
 
 3️⃣ Setup Database
+
 
 Import the dataset into MySQL
 
@@ -266,6 +271,8 @@ python your_script_name.py
 👨‍💻 Author
 
 Akanksha Kumari
+
+
 Aspiring Data Analyst | SQL | Python | Data Visualization
 
 🔗 GitHub: https://github.com/Akanksha265
